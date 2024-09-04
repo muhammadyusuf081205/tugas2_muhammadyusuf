@@ -1,0 +1,33 @@
+• Silakan mencari 5 repository open source dengan jumlah contributor, Star, dan commit paling banyak
+https://github.com/twitter/opensource-website
+1.Opensource-Website
+  Link                  :https://github.com/twitter/opensource-website 
+  Nama Developer        :twitter 
+  Lengauge Programing   :SCSS 67.4% Python 8.6% Dockerfile 0.9% HTML 18.8% Java script 4.3%
+  Penjelasan            :Situs web sumber terbuka Twitter, mengidentifikasi proyek yang telah kami rilis,
+                         organisasi yang kami dukung, dan upaya yang kami lakukan untuk mendukung sumber terbuka. 
+
+2.Opensource-guide
+  Link                  :https://github.com/github/opensource.guide 
+  Nama Developer        :github 
+  Lengauge Programing   :HTML51.5% JavaScript21.8% SCSS19.8% Ruby5.5% Shell1.4% 
+  Penjelasan            :Panduan komunitas untuk pembuat sumber
+
+3. react-portofolio-with-tailwind
+  Link                  : https://github.com/developedbyed/react-portofolio-with-tailwind.git
+  Nama Developer        : developedbyed
+  Lengauge Programing   : JAVASCRIPT, CSS
+  Penjelasan            : Ini adalah proyek Next.js yang di-bootstrap dengan create-next-app.
+
+4. facebook-php-sdk
+  Link                  : https://github.com/facebookarchive/facebook-php-sdk.git
+  Nama Developer        : facebookarchive
+  Lengauge Programing   : PHP
+  Penjelasan            : Platform Facebook adalah sekumpulan API yang membuat aplikasi Anda menjadi lebih sosial.
+
+5. Music
+  Link                  : https://github.com/maicong/music.git
+  Nama Developer        : maicong
+  Lengauge Programing   : PHP, JAVASCRIPT, CSS
+  Penjelasan            : Proyek ini telah ditangguhkan pemeliharaannya, kode yang diarsipkan hanya untuk pembelajaran dan                            komunikasi, tidak boleh digunakan untuk tujuan komersial!
+                          Solusi pencarian musik multi-situs, dukungan untuk mencari dan mendengarkan musik dari situs
